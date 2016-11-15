@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 //        this.getAssets()
+//jfjfeiie
         new File("eiije").getAbsolutePath()
         List<PackageInfo> installedPackages = getPackageManager().getInstalledPackages(0);
     }
